@@ -1,0 +1,48 @@
+
+
+#hand{
+animation: hand 0.8s ease-in-out infinite alternate;
+transform-origin: center;
+transform-box: fill-box;
+}
+/* #face{
+    animation: face 0.5s ease-in-out infinite alternate */
+}
+
+#man-on-bike{
+    animation: bike 2s ease-in-out infinite;
+}
+
+/* @keyframes face{
+    from {
+        transform: scaleY(0.5);
+    } to {
+
+        transform: skewX(0deg);
+    }
+} */
+
+@keyframes hand{
+    from {
+        transform: skewY(20deg);
+      
+    } to {
+        transform: scaleY(1);
+       
+    }
+}
+
+@keyframes bike{
+    from {
+        transfrom: rotateX(0deg)
+    } to {
+        transfrom: rotateX(0deg)
+    }
+}
+
+.pic1{
+    height: 100vh;
+   margin-left: 40vh;
+   opacity: 0.5;
+ 
+}
