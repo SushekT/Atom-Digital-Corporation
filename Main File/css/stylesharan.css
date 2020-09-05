@@ -1,0 +1,172 @@
+#footer{
+    background-color: #0f75bd;
+    padding: 0 0 30px 0;
+    color: white;
+    font-size: 14px;
+    height: 200px;
+}
+
+#footer .footer-top{
+    background: #0f75bd;
+    padding: 60px 0 30px 0;
+}
+
+#footer .footer-top .footer-info{
+margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-info h3{
+    font-size: 34px;
+    margin: 0 0 20px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    color: white;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+#footer .footer-top .footer-info p{
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom:0;
+    color: white;
+}
+
+#footer .footer-top .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    backgound: #0f75bd;
+    color: white;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 4px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+
+}
+
+#footer .footer-top .social-links a:hover{
+    background-color: #0f75bd;
+    color: white;
+}
+
+#footer .footer-top h4{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+#footer .footer-top .footer-links {
+    margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+
+margin: 0;
+}
+
+#footer .footer-top .footer-links ul li {
+    padding: 8px 0;
+}
+
+
+#footer .footer-top .footer-links ul li:first-child{
+padding-top: 0;
+}
+
+#footer .footer-top .footer-links ul a{
+    color: white;
+}
+
+#footer .footer-top .footer-links ul a:hover{
+    color:black;
+}
+
+#footer .footer-top .footer-contact{
+    margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-contact p{
+    line-height: 26px;
+}
+
+#footer .footer-top .footer-newsletter {
+    margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-newsletter input[type="email"]{
+    border: 0;
+    padding: 6px 8px;
+    width: 65%;
+}
+
+#footer .footer-top .footer-newsletter input[type="submit"]{
+    background:#0f75bd;
+    border: 0;
+    padding: 6px 0px;
+   text-align: center;
+   color: white;
+   transition: 0.3s;
+   cursor: pointer;
+}
+
+#footer .footer-top .footer-newsletter input[type="submit"]:hover{
+    background: black;
+}
+
+#footer .copyright{
+    text-align: center;
+    padding-top:30px;
+}
+
+#footer .credits{
+    text-align: center;
+    font-size: 13px;
+    color: #ffffff;
+}
+#footer .credits a{
+    color: #0f75bd;
+}
+
+#footer .credits a:hover{
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
