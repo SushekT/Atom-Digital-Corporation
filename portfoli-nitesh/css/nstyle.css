@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+     font:normal bold 50px/72px var(--roboto);
+}
+
+
+
+/*Global Classes */
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 16px;
+}
+.title-text{
+    font:normal bold 50px/72px var(--roboto);
+}
+
+.text-uppercase{
+    text-transform:uppercase;
+}
+
+/*------*/
+
+ 
+.btn{
+    font-size:18px;
+    margin: 5px;
+    padding: 7px 22px;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+.intro-button-area{
+    padding-top: 5px;
+}
+
+.intro-button-area .button{
+    color: white;
+    text-align: center;
+}
+
+/* services-area */
+.services-area{
+    padding: 0px 0px;
+}
+.services-area.services-title{
+    padding: 0 14rem;
+}
+.services-area.services-title h1{
+    font-size:35px;
+}
+
+.services-area .services{
+    background : rgba(248,252,253,0.973);
+    padding: 2rem 0;
+    width: 16rem;
+    margin:5rem, 5rem;
+    transition: box-shadow .7s ease;
+}
+
+.services-area .services:hover{
+
+    border-radius: 5px;
+    border :none;
+    box-shadow: 0 0 11px rgba(33,33,33,.2); ;
+}
+/* end services area */
